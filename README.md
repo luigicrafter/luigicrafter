@@ -7,6 +7,11 @@ This is my personal and school account.
 
 My school programming group: [LoMaTiInformatik](https://github.com/LoMaTiInformatik/)
 
+### Languages
+
+- German  | (native)
+- English | (C2)
+
 ## Projects
 
 ### Currently working on
