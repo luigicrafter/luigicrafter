@@ -10,8 +10,8 @@ My school programming group: [LoMaTiInformatik](https://github.com/LoMaTiInforma
 ## Projects
 
 ### Currently working on
-- [Turning a common boxfan into a smart home fan](https://github.com/LoMaTiInformatik/Smarthome_Ventilator/blob/main/)
-- [A Homebridge plugin for said boxfan](https://github.com/LoMaTiInformatik/Ventilator_homebridge_plugin/blob/main/)
+- [Turning a common boxfan into a smart home fan](https://github.com/LoMaTiInformatik/Smarthome_Ventilator/)
+- [A Homebridge plugin for said boxfan](https://github.com/LoMaTiInformatik/Ventilator_homebridge_plugin/)
 
 ### Finished
 None yet unfortunately :/
