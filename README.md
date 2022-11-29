@@ -10,7 +10,7 @@ My school programming group: [LoMaTiInformatik](https://github.com/LoMaTiInforma
 ### Languages
 
 - German  | (native)
-- English | (C2 | Full Professional)
+- English | (C1 | Full Professional)
 
 ## Projects
 
