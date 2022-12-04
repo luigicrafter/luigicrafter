@@ -1,10 +1,8 @@
 <h2 align="center">About me</h2>
-</br>Hello there.</br>
+</br>Hello there.
 </br>I am Lois and currently 17 years old.
-
-This is my personal and school account.
-
-My school programming group: [LoMaTiInformatik](https://github.com/LoMaTiInformatik/)
+</br>This is my personal and school account.
+</br>My school programming group: [LoMaTiInformatik](https://github.com/LoMaTiInformatik/)
 
 ### Languages
 
