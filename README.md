@@ -1,8 +1,6 @@
 <h2 align="center">About me</h2>
 </br>Hello there.
-
-
-I am Lois and currently 17 years old.
+</br>I am Lois and currently 17 years old.
 
 This is my personal and school account.
 
