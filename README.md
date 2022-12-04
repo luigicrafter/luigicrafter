@@ -1,5 +1,5 @@
-<h2 align="center">About me&#10;</h2>
-Hello there.
+<h2 align="center">About me</h2>
+</br>Hello there.</br>
 
 I am Lois and currently 17 years old.
 
@@ -12,7 +12,7 @@ My school programming group: [LoMaTiInformatik](https://github.com/LoMaTiInforma
 - German  | (native)
 - English | (C1 | Full Professional)
 
-<h2 align="center">Projects&#10;</h2>
+<h2 align="center">Projects</h2></br>
 
 ### Currently working on
 - [Turning a common boxfan into a smart home fan](https://github.com/LoMaTiInformatik/Smarthome_Ventilator/)    | (90% done) 
