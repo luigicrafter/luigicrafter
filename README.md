@@ -2,7 +2,7 @@
 
 Hello there.
 
-I am Lois and currently 17 years old.
+I am Lois and currently 18 years old.
 
 This is my personal and school account.
 
